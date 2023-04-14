@@ -20,7 +20,7 @@
 | [小强云](https://xqcloud.net/#/register?code=S6oYy5HW)       |   ❌     | ¥5/月66G   ¥8/40G不限时间     | 需求不高                          |  性价比高 对chatgpt使用比较友好                                    |
 | [魔戒](https://www.mojie.cyou/#/register?code=p9b5lORq)      |  ❌      | ¥12/130G不限时间    | 需求量低                               |                           |
 | [sockboom](https://sockboom.shop/auth/register?affid=726230) |  ❌      | ¥8/月40G           |                                       |                            |
-| [速鹰666](https://suying00.com/auth/register?code=J6nm)      |  ❌      | ¥19/月100G           |                                       |                            |
+| [速鹰666](https://suying00.com/auth/register?code=J6nm)      |  ✔      | ¥19/月100G           |                                       |                            |
 ---
 
 ## 工具
