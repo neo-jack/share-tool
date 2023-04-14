@@ -25,9 +25,8 @@
 ## 工具
 
 1.  [ip位置](https://www.expressvpn.com/what-is-my-ip)
-2.  [ip综合检测](http://www.milifa.cn/)
-3.  [ip综合检测](https://whoer.net/zh)
-4.  [ip纯度检测](https://scamalytics.com/ip)
+2.  [ip综合检测](https://whoer.net/zh)
+3.  [ip纯度检测](https://scamalytics.com/ip)
 
 ---
 
